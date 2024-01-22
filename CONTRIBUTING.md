@@ -1,1 +1,1 @@
-docs/section-6-contributing.md
+jdocs/section-6-contributing.md
